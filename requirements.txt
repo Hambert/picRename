@@ -1,0 +1,8 @@
+cffi==1.13.2
+ExifRead==2.1.2
+Pillow==7.0.0
+pycparser==2.19
+pyheif==0.4
+PyQt5==5.15.0
+PyQt5-sip==12.8.1
+whatimage==0.0.3
