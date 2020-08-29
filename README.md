@@ -1,6 +1,9 @@
 # Picture rename tool
 > Simple tool to rename pictures depend on there exif data
 
+![screenshot](https://raw.githubusercontent.com/Hambert/picRename/master/mainScreen.png)
+
+
 ## Installation
 
 Currently there is no downloadable binary. You have to run the tool form source.
