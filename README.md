@@ -1,8 +1,7 @@
 # Picture rename tool
 > Simple tool to rename pictures depend on there exif data
 
-![screenshot](https://raw.githubusercontent.com/Hambert/picRename/master/mainScreen.png)
-
+![screenshot](https://raw.githubusercontent.com/Hambert/picRename/master/data/mainScreen.png)
 
 ## Installation
 
