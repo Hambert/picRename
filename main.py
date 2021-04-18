@@ -23,7 +23,7 @@ class mainQtForm(Ui_FileRename):
 			#self.listWidget.addItem('Moin')
 			print(self.selectedDir)
 			#print(self.fileList)
-			renameFiles(path=self.selectedDir, newFilename=self.inputFilename, dryRun=True, resizeOption=False )
+			renameFiles(path=self.selectedDir, newFilename=self.inputFilename, dryRun=False, resizeOption=False )
 		except:
 			print("Error")
 	
